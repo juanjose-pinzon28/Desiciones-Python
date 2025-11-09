@@ -1,4 +1,4 @@
-# 🧠 Ejercicios de Algoritmos y Programación
+# 🧠 Ejercicios de desiciones en Python
 
 Este repositorio contiene mis soluciones a los ejercicios vistos en clase.
 - Lenguaje: PSeInt / Python
